@@ -100,13 +100,13 @@ bird.chirp();
 //  action 3: the bird lays an egg
 bird.layEgg();
 //  7)
-//  Noun: computer
-//  action 1: the computer loads
-computer.load();
-//  action 2: the computer compiles code
-computer.compile();
-//  action 3: the computer computes
-computer.compute();
+//  Noun: old man
+//  action 1: the old man eats oatmeal
+oldMan.eatOatmeal();
+//  action 2: the old man reads the newspaper
+oldMan.readNewspaper();
+//  action 3: the old man plays chess
+oldMan.playChess();
 //  8)
 //  Noun: synth
 //  action 1: the synth creates sine waves
